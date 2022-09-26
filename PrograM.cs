@@ -2,8 +2,13 @@
 
 namespace YapayZeka
 {
+
+
+
     class Program //sınıf
     {
+
+        //git hub yüklemesi yapıldı
 
         static string specialWord = "arkadaşım"; //tüm Program için geçerli değişken...
 
